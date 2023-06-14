@@ -1,0 +1,2 @@
+# scripts
+for educational purpose
